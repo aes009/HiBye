@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mobihelp_time_n_hrs_ago">
+        <item quantity="one">hace {hours} hora</item>
+        <item quantity="other">hace {hours} horas</item>
+    </plurals>
+    <plurals name="mobihelp_time_n_months_ago">
+        <item quantity="one">hace {months} mes</item>
+        <item quantity="other">hace {months} meses</item>
+    </plurals>
+    <plurals name="mobihelp_time_n_weeks_ago">
+        <item quantity="one">hace {weeks} semana</item>
+        <item quantity="other">hace {weeks} semanas</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <string name="mobihelp_activity_title_feedback">Iniciar una conversación</string>
+    <string name="mobihelp_activity_title_feedback_only">Retroalimentación</string>
+    <string name="mobihelp_activity_title_solution_article">Solución</string>
+    <string name="mobihelp_activity_title_solution_list">Soporte</string>
+    <string name="mobihelp_activity_title_tickets_list">Conversaciones</string>
+    <string name="mobihelp_autoreply_message">Gracias por sus comentarios. Nuestro representante de soporte se pondrá en contacto con usted en breve.</string>
+    <string name="mobihelp_content_description_device_screenshot">Captura de pantalla del dispositivo</string>
+    <string name="mobihelp_content_description_send_message">Enviar</string>
+    <string name="mobihelp_default_anon_user_name">MobihelpUser</string>
+    <string name="mobihelp_error_description_not_present">Por favor introduce la descripción de tu problema</string>
+    <string name="mobihelp_error_email_not_present">Por favor introduce tu dirección de correo electrónico</string>
+    <string name="mobihelp_error_email_not_valid">Por favor introduce una dirección de correo electrónico válida</string>
+    <string name="mobihelp_error_genreic_retry_message">Por favor espera un poco y vuelve a intentar</string>
+    <string name="mobihelp_error_name_not_present">Por favor introduce tu nombre</string>
+    <string name="mobihelp_error_no_network_connection">¡No estás conectado a Internet!</string>
+    <string name="mobihelp_hint_email">Correo electrónico</string>
+    <string name="mobihelp_hint_enter_text_here">Escribe aquí tu mensaje</string>
+    <string name="mobihelp_hint_feedback">¿Tiene alguna consulta?</string>
+    <string name="mobihelp_hint_name">Nombre</string>
+    <string name="mobihelp_hint_optional_field">(opcional)</string>
+    <string name="mobihelp_hint_required_field">(requerido)</string>
+    <string name="mobihelp_hint_solutions_search_query_hint">Buscar en la base de conocimiento</string>
+    <string name="mobihelp_label_contact_us">Contáctanos</string>
+    <string name="mobihelp_label_contact_us_description_text">Si no encuentras lo que necesitas, contáctanos</string>
+    <string name="mobihelp_label_my_conversations">Mis conversaciones</string>
+    <string name="mobihelp_label_request_review">Haz clic aquí para revisar la aplicación en Play Store</string>
+    <string name="mobihelp_label_support_solutions_list_label">Soluciones</string>
+    <string name="mobihelp_menu_item_title_contact_us">Contáctanos</string>
+    <string name="mobihelp_menu_item_title_search_solutions">Buscar</string>
+    <string name="mobihelp_menu_item_title_submit">Enviar</string>
+    <string name="mobihelp_message_failed_to_load_solution_article">No es posible cargar este artículo</string>
+    <string name="mobihelp_message_pending">enviando..</string>
+    <string name="mobihelp_message_request_failed">Fallo en el envío. Por favor, intentarlo más tarde</string>
+    <string name="mobihelp_message_request_succeded">Enviado con éxito</string>
+    <string name="mobihelp_message_support_agent">soporte</string>
+    <string name="mobihelp_message_ticket_submitted_thank_you">¡Gracias! tu retroalimentación se ha enviado</string>
+    <string name="mobihelp_rating_dialog_feedback_button">Retroalimentación</string>
+    <string name="mobihelp_rating_dialog_not_now_button">Ahora no</string>
+    <string name="mobihelp_rating_dialog_rate_button">Calificar</string>
+    <string name="mobihelp_rating_dialog_text">Si te ha gustado esta aplicación, por favor toma un momento para calificarla. ¡Gracias!</string>
+    <string name="mobihelp_rating_dialog_title">Calificar</string>
+    <string name="mobihelp_solutions_list_empty_message">No hay soluciones disponibles</string>
+    <string name="mobihelp_tickets_list_empty_message">Pulsa aquí para comenzar una nueva conversación</string>
+    <string name="mobihelp_time_a_day_ago">hace un día</string>
+    <string name="mobihelp_time_just_now">en este momento</string>
+    <string name="mobihelp_time_more_than_a_year_ago">hace más de un año</string>
+    <string name="mobihelp_time_n_days_ago">hace {days} días</string>
+    <string name="mobihelp_time_n_mins_ago">hace {mins} mins</string>
+</resources>

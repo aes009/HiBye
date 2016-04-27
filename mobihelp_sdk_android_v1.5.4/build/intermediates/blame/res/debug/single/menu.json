@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/debug/menu/mobihelp_ticket_list.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/menu/mobihelp_ticket_list.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/debug/menu/mobihelp_solutions_list.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/menu/mobihelp_solutions_list.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/debug/menu/mobihelp_feedback.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/menu/mobihelp_feedback.xml"
+    }
+]

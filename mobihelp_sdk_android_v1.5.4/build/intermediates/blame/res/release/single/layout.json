@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_voting_frame.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_voting_frame.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_listitem_ticket.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_listitem_ticket.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_partial_reply_frame.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_partial_reply_frame.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_progressbar.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_progressbar.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_contactus_footer.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_contactus_footer.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_activity_solution_list.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_activity_solution_list.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_listitem_article.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_listitem_article.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_video_loading.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_video_loading.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_simple_decor.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_simple_decor.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_start_new_conversation_frame.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_start_new_conversation_frame.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_action_bar_decor_include.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_activity_feedback.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_activity_feedback.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_activity_solution_article.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_activity_solution_article.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_include.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_action_bar_decor.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_activity_attachment_handler.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_activity_attachment_handler.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_activity_ticket_list.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_activity_ticket_list.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_activity_conversation.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_activity_conversation.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_toolbar.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_toolbar.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_action_bar_tab.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_need_help_footer.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_need_help_footer.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_custom_webview_screen.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_custom_webview_screen.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_action_bar_home.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_home.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_action_mode_close_item.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_action_bar_tabbar.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_listitem_conversation.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_listitem_conversation.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_listitem_category.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_listitem_category.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/abc_action_bar_decor_overlay.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/layout/abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_listitem_folder.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_listitem_folder.xml"
+    },
+    {
+        "merged": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/build/intermediates/res/merged/release/layout/mobihelp_close_confirmation_frame.xml",
+        "source": "/home/user/Downloads/HiBye/mobihelp_sdk_android_v1.5.4/res/layout/mobihelp_close_confirmation_frame.xml"
+    }
+]
